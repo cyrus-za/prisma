@@ -77,7 +77,7 @@
     "@typescript-eslint/eslint-plugin": "4.11.1",
     "@typescript-eslint/parser": "4.11.1",
     "chalk": "4.1.0",
-    "checkpoint-client": "1.1.18",
+    "checkpoint-client": "1.1.23",
     "dotenv": "8.2.0",
     "esbuild": "0.8.27",
     "escape-string-regexp": "4.0.0",
